@@ -1,1 +1,1 @@
-# learning
+Repository for projects created while learning
